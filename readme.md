@@ -24,7 +24,7 @@ Step 2:<br>
 a. Install Docker on your Machine.([Link](https://docs.docker.com/get-docker/))<br>
 b. To verify Docker is ready run the following command `docker -v`.<br>
 c. Run `docker-compose up` from the project root directory to load Anythink's backend and frontend.<br>
-d. To verify the backend should be running and able to connect to your local database. Open any Browser on your System and paste the following link `http://localhost:3000/api/ping`.<br>
+d. To verify the backend is running succesfully and able to connect to your local database. Open any Browser on your System and paste the following link `http://localhost:3000/api/ping`.<br>
 e. If you see something like this on your Browser it means you have succesfully connected with your Backend:
 ![ping](https://user-images.githubusercontent.com/55699684/177951060-516c920f-2e03-424b-b053-b6df64aa9d6e.png)<br>
 
